@@ -1,0 +1,13 @@
+---
+
+# 📦 requirements.txt
+
+```txt
+pandas
+numpy
+matplotlib
+yfinance
+statsmodels
+xgboost
+scikit-learn
+jupyter
