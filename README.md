@@ -46,8 +46,8 @@ post-pandemic rally, and interest-rate tightening cycles.
 - Return and volatility analysis
 - Liquidity analysis using volume
 - Seasonal decomposition for trend inspection
-![Prices and Trends (AAPL)](/screenshots/Prices-and-Trends-(AAPL).png)
-![Seasonal Component Analysis (AAPL)](/screenshots/Seasonal-Component-Analysis–(AAPL).png)
+![Prices and Trends (AAPL)](/screenshots/Prices-and-Trends(AAPL).png)
+![Seasonal Component Analysis (AAPL)](/screenshots/Seasonal-Component-Analysis(AAPL).png)
  
 
 ### 3. Feature Engineering
