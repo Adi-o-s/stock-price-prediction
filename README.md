@@ -96,10 +96,13 @@ Two models are implemented and compared:
 ## 🗂 Repository Structure
 
 ├── notebooks/        # Main analysis notebook
+
 ├── src/              # Modular data processing & modeling code
-├── reports/          # Final assignment report (PDF)
+
 ├── screenshots/      # Output visualizations
+
 ├── requirements.txt
+
 └── README.md
 
 ---
@@ -113,9 +116,11 @@ Open the notebook:
 
 jupyter notebook notebooks/Stock_Price_Prediction_Invsto.ipynb
 
+```
 
-📬 Contact
+## 📬 Contact
 
 Aditya Shrotriya
 B.Tech Computer Science
 India
+Linkedlin - https://www.linkedin.com/in/aditya-shrotriya-95016a179/
