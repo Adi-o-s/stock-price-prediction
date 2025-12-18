@@ -46,6 +46,9 @@ post-pandemic rally, and interest-rate tightening cycles.
 - Return and volatility analysis
 - Liquidity analysis using volume
 - Seasonal decomposition for trend inspection
+![Prices and Trends (AAPL)](/screenshots/Prices-and-Trends-(AAPL).png)
+![Seasonal Component Analysis (AAPL)](/screenshots/Seasonal-Component-Analysis–(AAPL).png)
+ 
 
 ### 3. Feature Engineering
 - Log returns
@@ -62,16 +65,22 @@ Two models are implemented and compared:
 - Parameters selected using grid search and AIC
 - Serves as a statistical baseline
 
+![ARIMA Model vs Actual](screenshots/ARIMA-Model.png)
+
 #### Gradient Boosting (XGBoost)
 - Captures non-linear relationships
 - Uses engineered technical indicators
 - Evaluated on out-of-sample data
+
+![XGBoost vs Actual ](screenshots/XGBoost-vs-Actual.png)
 
 ### 5. Evaluation
 - RMSE, MAE, and MAPE for prediction accuracy
 - Strategy-level backtesting
 - Buy-and-hold benchmark comparison
 - Portfolio-level aggregation
+
+![Prediction Accuracy and Strategy Performance](screenshots/Prediction-Accuracy-and-Strategy-Performance.png)
 
 ---
 
@@ -85,3 +94,28 @@ Two models are implemented and compared:
 ---
 
 ## 🗂 Repository Structure
+
+├── notebooks/        # Main analysis notebook
+├── src/              # Modular data processing & modeling code
+├── reports/          # Final assignment report (PDF)
+├── screenshots/      # Output visualizations
+├── requirements.txt
+└── README.md
+
+---
+
+## 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+
+Open the notebook:
+
+jupyter notebook notebooks/Stock_Price_Prediction_Invsto.ipynb
+
+
+📬 Contact
+
+Aditya Shrotriya
+B.Tech Computer Science
+India
