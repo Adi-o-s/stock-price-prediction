@@ -47,7 +47,7 @@ post-pandemic rally, and interest-rate tightening cycles.
 - Liquidity analysis using volume
 - Seasonal decomposition for trend inspection
 ![Prices and Trends (AAPL)](/screenshots/Prices-and-Trends(AAPL).png)
-![Seasonal Component Analysis (AAPL)](/screenshots/Seasonal-Component-Analysis(AAPL).png)
+![Seasonal Component Analysis (AAPL)](/screenshots/Seasonal-Component-Analysis-(AAPL).png)
  
 
 ### 3. Feature Engineering
@@ -121,6 +121,9 @@ jupyter notebook notebooks/Stock_Price_Prediction_Invsto.ipynb
 ## 📬 Contact
 
 Aditya Shrotriya
+
 B.Tech Computer Science
+
 India
+
 Linkedlin - https://www.linkedin.com/in/aditya-shrotriya-95016a179/
