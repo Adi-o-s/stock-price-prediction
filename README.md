@@ -1,8 +1,7 @@
 # Stock Price Prediction & Trading Strategy Evaluation
 
 **Author:** Aditya Shrotriya  
-**Role:** Data Science Intern Applicant  
-**Company:** Invsto  
+**Role:** Data Science Intern
 **Tech Stack:** Python, Pandas, NumPy, Statsmodels, XGBoost, Matplotlib  
 
 ---
